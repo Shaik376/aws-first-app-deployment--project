@@ -1,1 +1,1 @@
-# aws-first-app-deployment--project
+# aws-first-app-deployment-project
